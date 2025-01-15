@@ -528,3 +528,78 @@ Aayush Timalsina: bye
 Agent Ivan: Sad to see you go :(
 
 
+2025-01-15 15:47:29.107566
+Ranjana: bye
+Agent Quincy: Goodbye!
+
+
+2025-01-15 15:51:44.054319
+Nikita Sah: Where is university located
+Agent George: You can find the University of Poppleton at 123 University Avenue, Poppleton City.
+
+
+2025-01-15 15:52:13.787142
+Nikita Sah: How do students spend free time
+Agent George: Outside of class, students engage in various activities such as participating in clubs and organizations, attending campus events, exploring the surrounding community, and spending time with friends.
+
+
+2025-01-15 15:52:34.532641
+Nikita Sah: Does school have
+Agent George: Some colleges offer co-op programs where students can gain practical work experience related to their field of study while earning academic credit. If our college has a co-op program, students can explore such opportunities with the support of the college's career services or cooperative education office.
+
+
+2025-01-15 15:52:56.443694
+Nikita Sah: Does school have co-op program
+Agent George: Some colleges offer co-op programs where students can gain practical work experience related to their field of study while earning academic credit. If our college has a co-op program, students can explore such opportunities with the support of the college's career services or cooperative education office.
+
+
+2025-01-15 15:53:22.098724
+Nikita Sah: Does the college have summer vacation
+Agent George: Our college operates on a [semester/trimester/quarter] system with 2 semesters per academic year. We also offer summer sessions for students interested in accelerating their coursework or pursuing additional credits.
+
+
+2025-01-15 15:53:48.471294
+Nikita Sah: main reason student graduate on time
+Agent George: Students may face various reasons for graduation delays, such as changes in majors, studying abroad, or taking on internships. Our college offers academic advising and tailored degree plans to help students overcome challenges and stay on track for timely graduation.
+
+
+2025-01-15 15:54:21.669814
+Nikita Sah: is scholarships availiable for student
+Agent George: Yes, our college offers additional scholarships for students in specific academic disciplines or with special talents. Scholarships may be available for students pursuing majors in particular fields or demonstrating exceptional abilities in athletics, arts, or other areas. The application process for these scholarships varies, and students can find information about available scholarships through the college's financial aid office. Many scholarships are renewable for all four years, provided students meet the scholarship's criteria and maintain satisfactory academic progress.
+
+
+2025-01-15 15:55:00.650542
+Nikita Sah: are interview considered in admissions decisions
+Agent George: Admissions interviews, if offered by the college, can play a role in the application evaluation process. Interviews provide an opportunity for applicants to showcase their personality, interests, and passion for attending the college. The purpose of interviews is to assess applicants' fit with the college and gain a deeper understanding of their motivations. Interviews may be conducted by alumni, current students, or admissions officers, and their evaluation may be considered as part of the overall admissions decision.
+
+
+2025-01-15 15:55:44.517080
+Nikita Sah: what are the requirements to graduate in four years?
+Agent George: Graduating in four years typically requires careful academic planning, fulfilling credit requirements, and staying on track with degree progress. Students can work closely with academic advisors to plan their course schedules and ensure they are meeting all graduation requirements. While graduating in four years is common for many students, some may take longer, especially if pursuing double majors or participating in co-op programs. However, with proper planning, many students successfully complete their degree within four years.
+
+
+2025-01-15 15:56:13.774966
+Nikita Sah: How does college encourage students gain practical experience
+Agent George: The college emphasizes experiential learning and internships as essential components of the education. Through internships, students can gain hands-on experience in their field of study and develop valuable professional connections. The college's career services center plays a significant role in helping students secure internships and co-op placements. Additionally, there may be opportunities for research projects, service-learning, and community engagement.
+
+
+2025-01-15 15:56:43.714794
+Nikita Sah: How much is the maximum credits that can be transferred
+Agent George: For transfer students, our college has a credit evaluation process to determine how many academic credits will transfer from their previous institution. The college assesses the equivalency of courses taken at the previous school and grants transfer credits accordingly. There might be a maximum limit on the number of credits that can be transferred.
+
+
+2025-01-15 15:57:39.740389
+Nikita Sah: what happens if student takes a gap
+Agent George: In many cases, financial aid is available for students who take longer than four years to graduate. However, the availability and duration of financial aid may vary based on institutional policies and specific aid programs. Students should communicate with the financial aid office to understand the options available to them if they need additional time to complete their degree.
+
+
+2025-01-15 15:57:48.724287
+Nikita Sah: Thank you
+Agent George: You're welcome! If you have any more questions, feel free to ask.
+
+
+2025-01-15 15:57:53.524401
+Nikita Sah: bye
+Agent George: Goodbye!
+
+
