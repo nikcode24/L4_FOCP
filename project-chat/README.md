@@ -1,44 +1,45 @@
-# Introduction to Programming
+# Project Chat
 
-## Project 2: A Chatbot
+This folder contains files related to a chat project. The contents include a log file, a schema file, the main code for the chat application, and a README file. Below is a detailed description of each file and its purpose.
 
-### The Problem
+## Files and Their Purposes
 
-In order to improve the service it offers to its students, the University of Poppleton is seeking to develop a new system for answering questions from prospective students, based on an interactive online chat.
+### chatLogFile.txt
+A text file used for storing chat logs. This file includes:
+- Messages exchanged between users
+- Timestamps for each message
+- Usernames or identifiers for each participant
 
-The budget is tight, but a project has been started to develop a prototype. You will be working on this development.
+This file serves as a record of all chat interactions within the application.
 
-#### Specification
+### chatSchema.json
+A JSON file that defines the schema for the chat application. This file includes:
+- Data structures for storing messages
+- User information
+- Chat room details
 
-*The following is deliberately vague, but should give you the general idea. You are encouraged to add your own features, and to develop the project in any way you find interesting.*
+This file ensures that the data stored and exchanged within the chat application adheres to a predefined format.
 
-The program should start by prompting the user to enter their name. It should then display the name of the agent, who will then respond to questions. This should carry on until the user indicates that they wish to exit.
+### mainCode.py
+The main Python script for the chat application. This file contains the core logic and functionalities of the chat system, including:
+- User authentication and management
+- Sending and receiving messages
+- Storing chat logs
+- Handling multiple chat rooms or channels
 
-Of course, there are no real agents, so the name should be randomly generated. How the chat terminates is up to you, but having the user enter ``bye`` or similar is probably a good bet.
+This script is the entry point for running the chat application.
 
-During the chat, the "agent" should spot key words in the questions. For example, if the user types a question including the word "coffee", the "agent" might respond with the opening times of the campus coffee bar. If the "agent" finds no interesting words in the question, it should just come up with some random response.
+## How to Use the Files
 
-#### Requirements
+1. **chatLogFile.txt**:
+   - Open this file using any text editor to view the chat logs.
+   - Use it to monitor and review past conversations.
 
-For a pass, your program should:
+2. **chatSchema.json**:
+   - Open this file using any text editor or JSON viewer to review the schema.
+   - Ensure that any data stored or exchanged within the application adheres to this schema.
 
-1. Prompt the user to enter their name, and respond with a cheery greeting that includes the name.
-1. Display the agent's name to the user (this will be a randomly generated name, perhaps chosen from a list).
-1. Allow the user to enter questions, with no response.
-1. Exit when the user enters ``bye``.
-
-To improve on this, your program should:
-
-1. Detect at least *four* key words in the user's question, and respond accordingly.
-2. Print a random response if a key word is not found.
-3. Include the user's name in some of the responses.
-4. Exit if the user enters ``quit``, ``exit`` (or any similar string).
-
-For top marks you could also:
-
-1. Refactor the code so that the key words and responses can be configured *without* editing the program itself.
-2. Complete the above using a well known format such as JSON or YAML (which will be easiest anyway).
-3. Use the above to implement at least *ten* responses.
-4. Mirror real-life chat systems by randomly disconnecting.
-5. Create a log file of all the questions and answers in a session.
-6. Add any other features that you find interesting, or even amusing.
+3. **mainCode.py**:
+   - Run this script in a terminal or command prompt to start the chat application.
+   ```sh
+   python mainCode.py
